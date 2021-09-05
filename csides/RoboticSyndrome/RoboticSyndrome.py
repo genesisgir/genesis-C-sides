@@ -139,7 +139,3 @@ else:
     print('-The robot starts to tear you to shreds and you die in a pool of your own blood-')# (SOA) Sense of action by (Machine TM97) or by story
     print('(GAME OVER)') # lets user know that game is over and they lost!
     sys.exit() # A Module that terminates the program early
-    
-
-
-
