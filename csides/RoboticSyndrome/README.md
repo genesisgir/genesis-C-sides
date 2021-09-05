@@ -26,6 +26,5 @@ at a time and make sure to stop by and ask me any questions or , Chat , watch my
 
 ![Robo1](https://user-images.githubusercontent.com/87259615/132132473-343b2043-c46a-4591-aace-b3085b25ab4e.PNG)
 
-![whole code](https://user-images.githubusercontent.com/87259615/132132479-0944c0c8-2ad7-4a5e-af80-46cee37e044a.PNG)
 
 
