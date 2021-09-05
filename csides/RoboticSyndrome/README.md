@@ -21,3 +21,10 @@ I also stream my progress on Twitch and store the broadcasts so subscribers can 
 at a time and make sure to stop by and ask me any questions or , Chat , watch my progress!
 
 # screenshots
+
+![really 1](https://user-images.githubusercontent.com/87259615/132132469-29c1ac72-7cdf-4fd9-8315-3244771e23cf.PNG)
+
+![Robo1](https://user-images.githubusercontent.com/87259615/132132473-343b2043-c46a-4591-aace-b3085b25ab4e.PNG)
+
+
+
