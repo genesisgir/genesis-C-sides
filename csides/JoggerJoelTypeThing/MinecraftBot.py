@@ -346,6 +346,15 @@ if resp == 'c':
     print('LEAD PROGRAMMER - Genesis Gir')
     print('-special thanks to everyone at twitch and shoutout to JoggerJoel for this to be made! you a legend-')
     sys.exit()
+    """
+█▀▀   ▄▄   █▀ █ █▀▄ █▀▀
+█▄▄   ░░   ▄█ █ █▄▀ ██▄
+
+a place to dump everday sdies of code snippets , bits and bobs of code that were never ment to make it to VOL.1 or VOL.2
+think of this repository a place where all my code practice and code snippets live that arent as important but have different
+styles and flames to tham. A huge library of code snippets that can be 50 lines of code to 1000 lines of code. c sides smells like
+the ocean sea side cause everything is fresh and new most of the time. enjoy the c side!
+    """
     
      
     
