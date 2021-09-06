@@ -284,7 +284,7 @@ if resp == 'c':
     print('(press enter to enter crafting menu)')
     input()
     
-    # crafting wood sword!
+    # crafting wood sword process!
     while True:
         print('Craft a wood sword y/n?')
         response = input()
@@ -307,11 +307,11 @@ if resp == 'c':
     print('(press enter to kill the creeper)')
     input()
     
-    # killing a creeper
+    # kill a creeper process
     while creep_health !=0:
-        print('Slash the creeper with Wood Sword')
-        print('(press enter to hit)')
-        input()
+        print('The Creeper still stands.')
+        input('(press enter to slash the creeper!) ')
+        print('-SLASH!-')
         creep_health = creep_health -20
         print('The creeper has ('+str(creep_health)+') health left!')
         print()
@@ -320,10 +320,32 @@ if resp == 'c':
     creep_killcount = creep_killcount + 1 
     print('BOOM!!')
     time.sleep(1)
-    print('You have killed the creeper!')
+    print('You have killed a creeper!')
     print('(press enter)')
     input()
+    print('Notfication: Here comes a zombie!')
     
+    # kill a zombie process
+    while zombie_health != 0:
+        print('The zombie is trying to kill you!')
+        input('(slash the zombie press enter!) ')
+        print('SLASHhhh!')
+        zombie_health = zombie_health - 20
+        print('The zombie took damage it has ('+str(zombie_health)+') health left!')
+        print()
+        
+    # program continues
+    zombie_killcount = zombie_killcount + 1
+    print('-You clean off your sword and walk foward-')
+    input('(press enter)')
+    print('-You walk towards the hills back up to your house and close the door and the screen starts to fade away you have done what no')
+    print('man has ever dreamed of doing and you beat the game!')
+    print('press enter to exit the program')
+    input()
+    print('CREDITS')
+    print('LEAD PROGRAMMER - Genesis Gir')
+    print('-special thanks to everyone at twitch and shoutout to JoggerJoel for this to be made! you a legend-')
+    sys.exit()
     
      
     
