@@ -21,3 +21,10 @@ I also stream my progress on Twitch and store the broadcasts so subscribers can 
 at a time and make sure to stop by and ask me any questions or , Chat , watch my progress!
 
 # screenshots
+
+![jogger1](https://user-images.githubusercontent.com/87259615/132263396-ab131b4a-66c1-4c4c-ae75-c5456ab293f1.PNG)
+
+![jogger2](https://user-images.githubusercontent.com/87259615/132263400-ee2c8a1a-40e9-48b2-b52d-643fb55e2298.PNG)
+
+![jogger3](https://user-images.githubusercontent.com/87259615/132263406-4dfa70c0-58aa-4da9-8498-ed6b81f8d947.PNG)
+
