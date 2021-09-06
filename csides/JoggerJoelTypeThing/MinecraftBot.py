@@ -5,7 +5,7 @@ Welcome to the genesis gir lesson tutorials Volume 1! This program takes the use
 by joggerJoel with his immense interactive minecraft bots we will be taking user threw minecraft scenarios to dig , build,
 and do a wide range of tasks that a minecraft would do! just with the less functions..but creativity is what counts so jump
 into this diverse world and start collecting items and building your home and finish the program! This program is not an
-actual bot but used for inspiration to create more vast programs and to get practice in when I can since this is a c side
+actual bot but used for inspiration to create more vast programs and to get practice in when I can since this is a c side 
 Thanks for downloading~ 
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
 """
@@ -18,6 +18,10 @@ import random # generates random number integers fun right?!
 # enemies (foes that you can kill within this program)
 creep = 'Creeper (Enemy)'
 zombie = 'Zombie (Enemy)'
+
+# enemy health (healths to the correct demon types)
+creep_health = 100
+zombie_health = 100
 
 # enemies kill counters (Kill Track)
 creep_killcount = 0
@@ -250,32 +254,78 @@ if resp == 'c':
         print('(Punch the tree down to collect wood)')
         print('(press enter to punch)')
         input()
-        broken_wood = str(random.randint(4,11))
-        wood_block_amount = wood_block_amount + broken_wood 
-        print('The tree falls down and you collected '+broken_wood+' wood!')
+        wood_block_amount = wood_block_amount + 5
+        print('The tree falls down and you collected 5 wood!')
         print()
-    print('('+user+' collected 20+ wood'+')')
+    print('('+user+' collected 20 wood'+')')
     print('(press enter to read tutorial info)')
     input()
-    print('Notification: Nice you have collected enough to make a '+wood_sword+'!')
+    print('Notification: You now have enough to craft a '+wood_sword+'!') 
     print('(press enter)')
-    input()    
+    input()
+    
+    # program continues here
+    print('Notification: Its night time and enemies are closing in craft a '+wood_sword)
+    print('(press enter)')
+    input()
+    print('-You stand in the cold darkness and hear something behind you-')
+    time.sleep(1)
+    print(creep+':SssssSss.')
+    time.sleep(2)
+    print(creep+':SssssSssssSsSSsssssssssSs.')
+    print('(press enter to run!)')
+    input()
+    print('Notification: Creepers! You will need to make a weapon quick!')
+    print('(press enter to close notification)')
+    input()
+    print('-You pull out your work bench and place it on the soft pillow like block as you are in the snow biome')
+    print('you hear the sounds of a sickening hissing sound in the forest below and the creepers are making their way')
+    print('up into the mountains where you are and you are running out of time!')
+    print('(press enter to enter crafting menu)')
+    input()
+    
+    # crafting wood sword!
+    while True:
+        print('Craft a wood sword y/n?')
+        response = input()
+        if response == 'y':
+            print('Notification: Wood Sword has been created!')
+            wood_sword_amount = wood_sword_amount + 1
+            wood_block_amount = wood_block_amount - 10
+            time.sleep(1)
+            print('You have ('+str(wood_block_amount)+') '+wood_block+' left in your inventory!')
+            print('(press enter)')
+            input()
+            break
+            
+        elif response == 'n':
+            print('Notification: You have no choice!')
+            continue
+    
+    # program continues its phase here
+    print('-You pull out your wooden sword and begin to slash and rip and tear at the creepers nearing up to you!-')
+    print('(press enter to kill the creeper)')
+    input()
+    
+    # killing a creeper
+    while creep_health !=0:
+        print('Slash the creeper with Wood Sword')
+        print('(press enter to hit)')
+        input()
+        creep_health = creep_health -20
+        print('The creeper has ('+str(creep_health)+') health left!')
+        print()
+    
+    # program continues here
+    creep_killcount = creep_killcount + 1 
+    print('BOOM!!')
+    time.sleep(1)
+    print('You have killed the creeper!')
+    print('(press enter)')
+    input()
     
     
-    
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-        
+     
     
     
 elif resp == 'x': # if user decides to not play minecraft do this
