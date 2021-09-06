@@ -1,7 +1,7 @@
 # README.md
 
 # JoggerJoelTypeThing
-This program takes the user into a  minecrafft world heavy inspiration
+This program takes the user into a  minecraft world heavy inspiration
 by joggerJoel with his immense interactive minecraft bots we will be taking user threw minecraft scenarios to dig , build,
 and do a wide range of tasks that a minecraft would do! just with the less functions..but creativity is what counts so jump
 into this diverse world and start collecting items and building your home and finish the program! This program is not an
