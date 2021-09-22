@@ -27,7 +27,6 @@ zombie_health = 100
 creep_killcount = 0
 zombie_killcount = 0
 
-
 # weapons
 wood_sword = 'Wood Sword (Weapon)'
 iron_sword = 'Iron Sword (Weapon)'
