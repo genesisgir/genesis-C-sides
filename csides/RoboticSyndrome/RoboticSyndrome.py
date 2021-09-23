@@ -22,7 +22,7 @@ print('                                        █▀█ █▀█ █▄▄
 print('                                        █▀▄ █▄█ █▄█ █▄█ ░█░ █ █▄▄   ▄█ ░█░ █░▀█ █▄▀ █▀▄ █▄█ █░▀░█ ██▄')
 print('                                        written & coded by genesis gir')
 print()#(ELOC)
-print('-Your in a white room and something opens the door slowly -')# (SOD) Sense of direction by () or by story
+print('-Your in a white room and something opens the door slowly-')# (SOD) Sense of direction by () or by story
 print()#(ELOC)
 print(f'{robo}Wake up! BUZZ Brrr')#speech dialog from (Machine TM97) uses print function
 print('(press enter to wake up)')#prompts user to press enter to wake up w/print
@@ -33,7 +33,7 @@ input()
 print(f'{robo} Whats the number Im thinking of? Guess its between 1-10')#speech dialog from (Machine TM97) uses print function
 print()#(ELOC)
 print('-The robot leans over the table clenching his fists in such a angry manner and the oil dripping out of his eyes')# (SOA) Sense of action by (Machine TM97) or by story
-print('its clear that your in trouble and need to give the robot his desired answer or who knows what it will..do to you')#(SOA) Sense of action () continues
+print('its clear that your in trouble and need to give the robot his desired answer or who knows what it will..do to you-')#(SOA) Sense of action () continues
 print('(guess a number between 1 and 10 than press enter)') # prompts user to guess a number w/print
 
 guess = input() # guess variable stores users standard input
@@ -135,7 +135,7 @@ if guess =='6': # answer to the manic robot is '6'
         print('-The robot picks you up and rips you to shreds..you bleed out-')# (SOA) Sense of action by (Machine TM97) or by story
         print('(GAME OVER)') # lets user know that game is over and they lost!
         sys.exit() # A Module that terminates the program early
-else:
+else: # Game Over path!
     print('-The robot starts to tear you to shreds and you die in a pool of your own blood-')# (SOA) Sense of action by (Machine TM97) or by story
     print('(GAME OVER)') # lets user know that game is over and they lost!
     sys.exit() # A Module that terminates the program early
