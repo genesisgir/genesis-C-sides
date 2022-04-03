@@ -12,7 +12,7 @@ Thanks for downloading~
 
 #Modules
 import sys # A  module that terminates program early
-import time # using for the loaidng screen
+import time # using for the loading screen
 import random # generates random number integers fun right?!
 
 # enemies (foes that you can kill within this program)
