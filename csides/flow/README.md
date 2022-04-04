@@ -31,6 +31,8 @@ at a time and make sure to stop by and ask me any questions or , Chat , watch my
 
 # screenshots
 
+![Capture](https://user-images.githubusercontent.com/87259615/161556079-157923f1-2560-440d-9871-b291f06a4151.PNG)
+
 
 
 
