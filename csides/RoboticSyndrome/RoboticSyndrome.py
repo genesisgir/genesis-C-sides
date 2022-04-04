@@ -7,6 +7,7 @@ has in store for them! Guess the right number to survive if you guessed wrong yo
 room filled with mechanical parts from the future met for your demise. Being locked inside of a room with no way out
 like in life you only get one chance to live and it's the same for Robotic Syndrome Thanks for downloading~ 
 ⼕ㄖᗪ🝗ᗪ & 山尺讠セセ🝗𝓝 ⻏丫 Ꮆ🝗𝓝🝗丂讠丂 Ꮆ讠尺
+
 """
 # This program takes the user on a hostage situation with a robot that has user trapped in a room met for death!
 
@@ -108,19 +109,13 @@ if guess =='6': # answer to the manic robot is '6'
                     input() # takes users input from user and waits for them to press enter to key to resume! w/input()
                     print('-Stabby Stab Stab -') # User is being stabbed! uses w/print()
                     print('(GAME OVER)') # lets user know that game is over and they lost!
-                    sys.exit() # A Module that terminates the program early
-                    
-                
-                
-                
-                
+                    sys.exit() # A Module that terminates the program early    
+            
             else:
                 print('-The robot gets up and starts to choke you to death!-')# (SOA) Sense of action by (Machine TM97) or by story
                 print('(GAME OVER)') # lets user know that game is over and they lost!
                 sys.exit() # A Module that terminates the program early
-            
-            
-            
+        
         else:
             print('-The robot stands up-')# (SOA) Sense of action by (Machine TM97) or by story
             print('(press enter)')#prompts user to press enter w/print
@@ -128,9 +123,7 @@ if guess =='6': # answer to the manic robot is '6'
             print('-You have been stabbed and are bleeding to your death-') # shows that user is dying w/print()
             print('(GAME OVER)') # lets user know that game is over and they lost!
             sys.exit() # A Module that terminates the program early
-        
-        
-        
+            
     elif response == 'n':
         print('-The robot picks you up and rips you to shreds..you bleed out-')# (SOA) Sense of action by (Machine TM97) or by story
         print('(GAME OVER)') # lets user know that game is over and they lost!
