@@ -5,12 +5,11 @@ Heres a program i created using the webbrowser function and uses the function ca
 the art of coding can be really fun and amazing when things come together, I put the url of my favorite laxcity track by far
 GRANTED by Laxcity make sure to follow him on soundcloud!
 
+![laxcity](https://user-images.githubusercontent.com/87259615/161549664-fd63187e-28a1-459a-90f2-a8705e441ccc.jpg)
+
+
 Laxcity: https://soundcloud.com/laxcity (B-SIDES) / https://soundcloud.com/laxcitymusic (MAIN)
 
-║░█░█░║░█░█░█░║░█░█░║
-║░█░█░║░█░█░█░║░█░█░║
-║░║░║░║░║░║░║░║░║░║░║
-╚═╩═╩═╩═╩═╩═╩═╩═╩═╩═╝
             Tips: The webbrowser module allows you to open web pages using webbrowser('insert URL')
 Program created by genesisgir
 
@@ -29,6 +28,8 @@ at a time and make sure to stop by and ask me any questions or , Chat , watch my
 
 # screenshots
 
+![laxcityscs](https://user-images.githubusercontent.com/87259615/161549511-91461a87-75c2-48f0-9c01-aac5229742b6.PNG)
 
+![lax](https://user-images.githubusercontent.com/87259615/161549520-ab22bff6-1d05-4def-9910-43de060103cf.PNG)
 
 
