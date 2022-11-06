@@ -21,7 +21,7 @@ Laxcity: https://soundcloud.com/laxcity (B-SIDES) / https://soundcloud.com/laxci
 ║░║░║░║░║░║░║░║░║░║░║
 ╚═╩═╩═╩═╩═╩═╩═╩═╩═╩═╝
             Tips: The webbrowser module allows you to open web pages using webbrowser('insert URL')
-Program created by genesisgir
+Program created by tenniswaifu
 """
 #Importing modules with the import statement
 import webbrowser,time,sys,random

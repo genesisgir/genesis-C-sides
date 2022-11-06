@@ -11,7 +11,7 @@ GRANTED by Laxcity make sure to follow him on soundcloud!
 Laxcity: https://soundcloud.com/laxcity (B-SIDES) / https://soundcloud.com/laxcitymusic (MAIN)
 
             Tips: The webbrowser module allows you to open web pages using webbrowser('insert URL')
-Program created by genesisgir
+Program created by tenniswaifu
 
 ![Screenshot 2021-09-05 05-16-07](https://user-images.githubusercontent.com/87259615/132131776-e08d5983-5fb7-45fd-b15b-ccf84c708afe.png)
 

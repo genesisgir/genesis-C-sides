@@ -84,8 +84,8 @@ Thank you for downloading this .py find more sea sides at my githu and learn som
 to not give up on coding! its an artform and anbody can be skileld enough to achieve greatness in your code
 make sure to check out my twitch streams below!
 
-Twitch: https://www.twitch.tv/genesisgir 
-Github: https://github.com/GenesisGir
+Twitch: https://www.twitch.tv/tenniswaifu 
+Github: https://github.com/tenniswaifu
 
 thank you to everyone on twitch who participated in the making of this .py!
 """
